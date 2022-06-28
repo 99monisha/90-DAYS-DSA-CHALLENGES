@@ -14,7 +14,7 @@
           <td>1</td>
             <td>ARRAY</td>
              <td>1</td>
-          <td><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/DAY-1/array.cpp">ARRAY CREATION</a></td>
+          <td><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/DAY-1/array%20creation/array.cpp">ARRAY CREATION</a></td>
       </tr>
       <tr>
          <td></td>
