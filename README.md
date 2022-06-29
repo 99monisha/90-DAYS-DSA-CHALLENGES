@@ -10,5 +10,7 @@
     <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/Smallest%20elements/small.cpp">6. Smalest Elements in Array</a></ol></p>
      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/smallest%20and%20largest/smalllarge.cpp">7. Smalest and Largest Elements in Array</a></ol></p>
      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/second%20smallest%20elements/secondsmall.cpp">8. Second Smalest Elements in Array</a></ol></p>
+     <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/second%20largest%20element/secLarge.cpp">9. Second Largest Elements in Array</a></ol></p>
+     
      </ul>
     
