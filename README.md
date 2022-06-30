@@ -14,7 +14,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/sum%20array/sum.cpp">10. Sum of Elements in Array</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/Frequency-array/freq.cpp">11. Frequency of elements in an Array</a></ol></p>
  <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/Repeating%20Element/repeat.cpp">12. Repeating elements in an Array</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/Non%20repeating%20element/non.cpp">13. Non-Repeating elements in an Array</a></ol></p>
       <p><ol><a href=""></a></ol></p>
         <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
