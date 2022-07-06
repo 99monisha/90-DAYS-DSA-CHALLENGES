@@ -20,7 +20,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/pair%20of%20sum/pair.cpp">16. Pair sum of an array</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/kth%20%20smallest%20elements/kth.cpp">17. Find The Kth SMALEST elements in an array</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/kth%20largest%20elements/largest.cpp">18. Find the Kth LARGEST elements in an array</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/Kth%20small%20and%20large/SmLg.cpp">19. Find the Kth MAX and MIN elements in an array</a></ol></p>
         <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
