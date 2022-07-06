@@ -50,7 +50,7 @@ int main()
     {
         cin>>a2[j];
     }
-    cout<<" \nUNION:"<<" "
+    cout<<" \nUNION:"<<" ";
     printunion(a1,a2,m,n);
     return 0;
 }
