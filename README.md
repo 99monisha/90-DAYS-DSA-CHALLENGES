@@ -23,7 +23,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/Kth%20small%20and%20large/SmLg.cpp">19. Find the Kth MAX and MIN elements in an array</a></ol></p>
         <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/Union/union.cpp">20. Find the Union of an sorted array</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/Intersection/inter.cpp">21. Find the Intersection of an sorted array</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/minimum%20jums/mini.cpp">22. Find the minimum no of jumps to reach end of an array</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
         <p><ol><a href=""></a></ol></p>
