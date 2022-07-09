@@ -25,7 +25,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/Intersection/inter.cpp">21. Find the Intersection of an sorted array</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/minimum%20jums/mini.cpp">22. Find the minimum no of jumps to reach end of an array</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/height%20minimize/height.cpp">23. Minimize the maximum difference between heights</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/duplicate%20N%2B1/dupli.cpp">24. Find duplicates in an array of N+1 integers</a></ol></p>
         <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
