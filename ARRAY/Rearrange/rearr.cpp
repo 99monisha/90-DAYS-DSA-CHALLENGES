@@ -1,3 +1,7 @@
+/*
+rearrange the degits
+
+*/
 #include<bits/stdc++.h>
 using namespace std;
 void rearrangr(int a[],int n)
