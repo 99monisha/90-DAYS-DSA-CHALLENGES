@@ -29,7 +29,8 @@
         <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/count%20odd%20even/oddeve.cpp">25.Counts numbers of even and odd elements in an array</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/minimum%20scalar%20product/minscaler.cpp">26.Find minimum scaler of two vectors</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/ARRAY/maxium%20scaler/maxscaler.cpp">27. Find maximum scaler of two vectors</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+       <h3><li>STRING</li></h3>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-1/vowelorcon.cpp">28.Find Vowel or Consonent</a></ol></p>
       <p><ol><a href=""></a></ol></p>
         <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
