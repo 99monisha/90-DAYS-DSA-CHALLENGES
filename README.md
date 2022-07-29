@@ -36,7 +36,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-4/length.cpp">31. Length of a String without using strlen().</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-5/togglechar.cpp">32. Toggle each character in a string</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-6/vowlcount.cpp">33. Count the numbers of  vowels in a string</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-7/remvowl.cpp">34. Remove Vowels from String</a></ol></p>
         <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
