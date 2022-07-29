@@ -1,3 +1,9 @@
+/*
+Remove Vowels From String
+Enter String: Monisha
+After removing vowels: Mnsh
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
