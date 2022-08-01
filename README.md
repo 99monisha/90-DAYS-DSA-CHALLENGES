@@ -40,7 +40,7 @@
         <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-8/palindrome.cpp">35. String is a Palindrome or not</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-9/reverse.cpp">36. Reverse a String</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-10/remchar.cpp">37. remove all character from string except alphabet</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-11/spacerem.cpp">38. Remove space from string</a></ol></p>
       <p><ol><a href=""></a></ol></p>
         <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
