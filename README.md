@@ -53,7 +53,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-21/subsstring.cpp">21. Generate all substring of a string</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-22/tower.cpp">22. Tower of Hanoi</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-23/replacepi.cpp">23. Replace PI with 3.14 string</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-24/moveX.cpp">24. Move all X to the end of the string</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
