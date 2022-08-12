@@ -56,7 +56,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-24/moveX.cpp">24. Move all X to the end of the string</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-25/permutation.cpp">25. Print all possible permutations of a string</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-26/maze.cpp">26. Count the number of paths possible in a maze</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/STRING/pro-27/ascii.cpp">27. Generates Sub Strings with ASCII number </a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
