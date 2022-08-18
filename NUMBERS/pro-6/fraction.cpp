@@ -1,5 +1,7 @@
 /*
-
+Enter numerator and denominator of first number : 3 4
+Enter numerator and denominator of second number: 5 6
+3/4 + 5/6 = 19/12
 */
 
 
