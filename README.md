@@ -66,7 +66,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-6/fraction.cpp">6. Addition two fraction</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-7/one.cpp">7. Replace all 0's with 1 </a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-8/area.cpp">8. Calculate the area of a circle</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-9/prime.cpp">9. Find Prime number between 1 to 100</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
