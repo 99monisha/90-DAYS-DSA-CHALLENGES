@@ -61,7 +61,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-1/hcf.cpp">1. HCF of two numbers</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-2/lcm.cpp">2. LCM of two numbers</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-3/Gdivisor.cpp">3. Greatest Common Divisor</a></ol></p>
-      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-4/permu.cpp"></a>4. Permutation in which n people can occupy r seats in a classroom</ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-4/permu.cpp">4. Permutation in which n people can occupy r seats in a classroom</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-5/handshakes.cpp">5. Maximum number of handshakes </a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-6/fraction.cpp">6. Addition two fraction</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-7/one.cpp">7. Replace all 0's with 1 </a></ol></p>
