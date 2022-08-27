@@ -1,3 +1,7 @@
+/*
+Number of days is 31
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
