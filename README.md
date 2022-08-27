@@ -70,7 +70,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-10/one.cpp">10. Calulate the number of digits method-1</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-10/num.cpp">11. Calulate the number of digits method-2</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-11/day.cpp">12. Counting number of days in a given month of a year method1</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="">13. Counting number of days in a given month of a year method2</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
