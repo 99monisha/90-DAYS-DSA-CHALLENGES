@@ -72,8 +72,8 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-11/day.cpp">12. Counting number of days in a given month of a year method1</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-11/daymonth.cpp">13. Counting number of days in a given month of a year method2</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-11/dayyear.cpp">14. Counting number of days in a given month of a year method3</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-12/xdigt.cpp">15. print the Occurrence of a Digit in a given Number method1</a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-12/xxdigt.cpp">16. print the Occurrence of a Digit in a given Number method2</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
