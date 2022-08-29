@@ -1,3 +1,7 @@
+/*
+4
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 void sieve(bool primes[], int x)
