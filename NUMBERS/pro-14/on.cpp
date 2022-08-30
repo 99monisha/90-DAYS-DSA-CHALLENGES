@@ -1,5 +1,6 @@
 /*
-
+Roots are real and same 
+-2.000000
 */
 
 #include <bits/stdc++.h>
