@@ -74,8 +74,9 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-11/dayyear.cpp">14. Counting number of days in a given month of a year method3</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-12/xdigt.cpp">15. print the Occurrence of a Digit in a given Number method1</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-12/xxdigt.cpp">16. print the Occurrence of a Digit in a given Number method2</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-13/on.cpp">17. find number of integers which has exactly x divisors method-1
+</a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-13/tw.cpp">18. find number of integers which has exactly x divisors method-2 </a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
