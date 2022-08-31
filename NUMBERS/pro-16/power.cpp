@@ -1,5 +1,6 @@
  /*
  
+ Required Power is 125
  
  */
  
