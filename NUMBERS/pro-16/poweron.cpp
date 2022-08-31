@@ -1,4 +1,8 @@
-  
+ /*
+ 
+ Required Power is 125
+
+ */ 
   
   #include<bits/stdc++.h>
   using namespace std;
