@@ -82,7 +82,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-16/power.cpp">21. Power of a Number using Recursion method-1</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/NUMBERS/pro-16/poweron.cpp">22. Power of a Number using Recursion method-2</a></ol></p>
           <h3><li>RECURSION</li></h3>
-      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-1/on.cpp">Prime Number using Recursion</a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-1/on.cpp">1. Prime Number using Recursion</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
