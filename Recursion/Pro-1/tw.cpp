@@ -1,3 +1,7 @@
+/*
+Not a Prime
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
