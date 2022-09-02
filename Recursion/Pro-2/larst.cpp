@@ -8,11 +8,9 @@ Largest Element is : 78
 using namespace std;
 
 int largest_element(int n, int arr[]){
-
-   int max_element = INT_MIN;
-
-   for(int i=0; i<n; i++){
-      max_element = max(arr[i], max_element);
+int max_element = INT_MIN;
+for(int i=0; i<n; i++){
+ max_element = max(arr[i], max_element);
    }
 
    return max_element;
