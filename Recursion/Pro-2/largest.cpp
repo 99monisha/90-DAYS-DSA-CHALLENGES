@@ -1,3 +1,7 @@
+/*
+Largest Element is : 78
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 int largest_element(int n, int arr[])
@@ -10,7 +14,7 @@ int largest_element(int n, int arr[])
  int main()
  {
      int arr[] = {10, 45, 78, 34, 67};
- int n = sizeof(arr)/sizeof(arr[0]); 
-cout<<"Largest Element is : "<<largest_element(n, arr);
-return 0;
+     int n = sizeof(arr)/sizeof(arr[0]); 
+     cout<<"Largest Element is : "<<largest_element(n, arr);
+     return 0;
  }
