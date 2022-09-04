@@ -87,7 +87,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-2/largest.cpp">3.Largest element in array using recursion method-1</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-2/larst.cpp">4. Largest element in array using recursion method-2</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-3/one.cpp">5. Largest number using Recursion method-1</a></ol></p>
-      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-3/two.cpp">6. Largest number using Recursion method-1 </a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-3/two.cpp">6. Largest number using Recursion method-2 </a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
