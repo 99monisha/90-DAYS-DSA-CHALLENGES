@@ -1,3 +1,8 @@
+/*
+
+
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -18,4 +23,5 @@ int main(){
    int n = sizeof(arr)/sizeof(arr[0]);
  
    cout<<"Smallest Element is "<<smallest_element(n, arr);
+   return 0;
 }
