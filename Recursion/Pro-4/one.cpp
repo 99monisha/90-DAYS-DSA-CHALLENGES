@@ -1,5 +1,5 @@
 /*
-
+Smallest Element is 10
 */
 
 #include<bits/stdc++.h>
