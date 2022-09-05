@@ -1,3 +1,7 @@
+/*
+
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 int smallest_element(int n, int arr[]){
