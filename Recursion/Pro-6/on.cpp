@@ -1,5 +1,5 @@
 /*
-
+12
 
 */
 
@@ -14,7 +14,7 @@ int Len(char* str)
 }
 int main()
 {
-   char str[] = "PrepInsta";
+   char str[] = "MonishaDolai";
    cout << Len(str);
    return 0;
 }
