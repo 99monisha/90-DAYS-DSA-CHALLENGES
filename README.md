@@ -93,7 +93,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-5/one.cpp">9. Reversing a Number using Recursion method-1</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-5/tw.cpp"></a>10. Reversing a Number using Recursion method-2</ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-6/on.cpp">11. Length of String using Recursion method-1</a></ol></p>
-      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-6/tw.cpp">12. Length of String using Recursion method-1</a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-6/tw.cpp">12. Length of String using Recursion method-2</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
