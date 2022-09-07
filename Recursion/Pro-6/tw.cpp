@@ -1,3 +1,7 @@
+/*
+7
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int Len(char* str) 
