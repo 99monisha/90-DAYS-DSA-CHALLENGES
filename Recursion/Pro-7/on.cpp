@@ -1,5 +1,5 @@
 /*
-
+Fact 6: 720
 */
 
 #include<iostream>
