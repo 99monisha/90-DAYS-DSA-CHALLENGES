@@ -1,5 +1,5 @@
 /*
-
+Fact 8 : 40320
 */
 
 #include<iostream>
