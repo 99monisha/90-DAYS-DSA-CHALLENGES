@@ -12,4 +12,6 @@ int main ()
     }
     
     cout << "Fact " << num << ": " << fact;
+
+    return 0;
 }
