@@ -94,7 +94,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-5/tw.cpp"></a>10. Reversing a Number using Recursion method-2</ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-6/on.cpp">11. Calculate Length of String using Recursion method-1</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-6/tw.cpp">12. Calculate Length of String using Recursion method-2</a></ol></p>
-      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-7/on.cpp">13. Find the Factorial of a number using recursion</a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-7/on.cpp">13. Find the Factorial of a number using recursion method-1</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-7/tw.cpp">14. Find the Factorial of a number using recursion</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
