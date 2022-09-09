@@ -1,3 +1,11 @@
+/*
+
+n i t i n 
+n iti n 
+nitin
+*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -54,7 +62,7 @@ void allPalPartitions(string str)
 
 int main()
 {
-    string str = "moni";
+    string str = "nitin";
     allPalPartitions(str);
     return 0;
 }
