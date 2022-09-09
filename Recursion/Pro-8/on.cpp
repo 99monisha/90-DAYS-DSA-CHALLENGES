@@ -1,5 +1,5 @@
 /*
-
+Find all possible Palindromic Partitions of the given String
 n i t i n 
 n iti n 
 nitin
