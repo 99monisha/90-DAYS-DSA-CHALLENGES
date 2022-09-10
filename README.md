@@ -98,7 +98,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-7/tw.cpp">14. Find the Factorial of a number using recursion method-2</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-8/on.cpp">15. Find all possible Palindromic Partitions of the given String</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Recursion/Pro-8/tw.cpp">16. Given a set of positive integers, find all its subsets..</a></ol></p>
-      <p><ol><a href="">1. Spiral Traversal of a Matrix method-1</a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-1/on.cpp">1. Spiral Traversal of a Matrix method-1</a></ol></p>
       <p><ol><a href="">2. Spiral Traversal of a Matrix method-2</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
