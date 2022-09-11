@@ -101,7 +101,7 @@
       <h3><li>MATRIX</li></h3>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-1/on.cpp">1. Spiral Traversal of a Matrix method-1</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/tw.cpp">2. Spiral Traversal of a Matrix method-2</a></ol></p>
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-2/on.cpp">3.Spiral Traversal of a Matrix simple Way method-1</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
