@@ -1,4 +1,7 @@
-/**/
+/*
+Search an element in a matrix
+
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
