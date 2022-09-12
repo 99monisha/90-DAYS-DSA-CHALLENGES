@@ -19,11 +19,11 @@ using namespace std;
 int main(){
 
    int n;
-   cin>>n;
+   cin >>n;
 
    int a[n][n];
    for(int i=0; i>a[i][j];
-   }
+   
 
   int search;
   cin>>search;
