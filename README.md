@@ -103,7 +103,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/tw.cpp">2. Spiral Traversal of a Matrix method-2</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-2/on.cpp">3. Spiral Traversal of a Matrix simple Way method-1</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-2/tw.cpp">4. Arrange 0, 1 and 2 using Array matrix method-1</a></ol></p>
-      <p><ol><a href="">5. Search an element in a matrix</a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-3/on.cpp">5. Search an element in a matrix</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
