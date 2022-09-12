@@ -47,4 +47,5 @@ int main(){
 
   if(flag==0)
   cout<<"Not found";
+  return 0;
 }
