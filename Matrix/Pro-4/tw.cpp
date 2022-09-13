@@ -1,5 +1,5 @@
 /*
-
+Find Transpose of a Matrix
 
 Enter rows and columns of matrix: 2
 3
