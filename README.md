@@ -106,7 +106,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-3/on.cpp">5. Search an element in a matrix method-1</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-3/tw.cpp">6. Search an element in a matrix method-2</a></ol></p>
       
-      <p><ol><a href=""></a></ol></p>
+      <p><ol><a href="">Multiply two matrices without using functions</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
