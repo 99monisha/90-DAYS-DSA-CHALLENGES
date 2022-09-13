@@ -1,5 +1,5 @@
 /*
-
+Multiply two matrices without using functions
 Enter rows and column for first matrix: 3
 2
 Enter rows and column for second matrix: 3
