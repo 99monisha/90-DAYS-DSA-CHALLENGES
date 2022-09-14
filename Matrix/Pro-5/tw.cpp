@@ -1,5 +1,5 @@
 /*
-
+Median of the given matrix is 2
 
 */
 
