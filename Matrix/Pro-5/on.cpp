@@ -12,4 +12,5 @@ int main(){
 
     sort(arr, arr+9);
     cout << "Median of the given matrix is : " << arr[4];
+    return 0;
 }
