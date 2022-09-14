@@ -1,6 +1,6 @@
 /*
 
-
+Median of the given matrix is 2
 */
 
 #include<bits/stdc++.h>
