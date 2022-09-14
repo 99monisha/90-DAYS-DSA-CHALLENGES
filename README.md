@@ -107,8 +107,8 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-3/tw.cpp">6. Search an element in a matrix method-2</a></ol></p>
         <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-4/on.cpp">7. Multiply two matrices without using functions</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-4/tw.cpp">8. Find Transpose of a Matrix</a></ol></p>
-      <p><ol><a href="">Find median in a row wise sorted matrix</a></ol></p>
-      <p><ol><a href="">Find median in a row wise sorted matrix</a></ol></p>
+      <p><ol><a href="">9. Find median in a row wise sorted matrix</a></ol></p>
+      <p><ol><a href="">10. Find median in a row wise sorted matrix</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
