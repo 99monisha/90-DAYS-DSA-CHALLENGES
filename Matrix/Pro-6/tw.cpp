@@ -1,5 +1,7 @@
 /*
+Output :
 
+Index of row with maximum 1's is 2
 
 */
 
