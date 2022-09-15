@@ -22,5 +22,6 @@ int main(){
    }
 
    cout << "Index of row with maximum 1s is " << index;
+   return 0;
 
 }
