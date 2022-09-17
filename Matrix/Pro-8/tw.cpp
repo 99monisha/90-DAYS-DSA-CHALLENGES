@@ -1,5 +1,12 @@
 /*
 Rotate a matrix by 90 degree in clockwise direction
+
+Output
+Rotated Matrix is :
+13 9 5 1
+14 10 6 2
+15 11 7 3
+16 12 8 4
 */
 #include<bits/stdc++.h>
 using namespace std;
