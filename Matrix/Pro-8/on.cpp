@@ -1,4 +1,6 @@
 /*
+
+Rotate a matrix by 90 degree in clockwise direction
 Output
 Rotated Matrix is :
 13 9 5 1
