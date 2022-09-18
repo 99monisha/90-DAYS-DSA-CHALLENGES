@@ -1,5 +1,6 @@
 /*
 Common elements in all rows of a given matrix
+Maximum Value is 18
 
 */
 #include <bits/stdc++.h>
