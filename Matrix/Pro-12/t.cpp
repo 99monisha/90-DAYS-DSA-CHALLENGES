@@ -1,4 +1,6 @@
 /*
+
+Code for Median of two Sorted arrays of equal size
 Input :
 5
 1 12 15 26 38
