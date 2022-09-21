@@ -1,5 +1,11 @@
 /*
+Input :
+5
+1 12 15 26 38
+2 13 17 30 45
 
+Output :
+16
 */
 
 #include <bits/stdc++.h>
