@@ -1,7 +1,7 @@
 /*
 
 A C++ program for merging overlapping intervals 
-
+The Merged Intervals are: [1,9]
 **/
 
 #include<bits/stdc++.h>
