@@ -1,5 +1,5 @@
 /*
-
+find Next Permutation
 
 bac
 */
