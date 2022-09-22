@@ -1,5 +1,9 @@
-// C++ program to merge overlapping Intervals in
-// O(n Log n) time and O(1) extra space.
+/*
+C++ program to merge overlapping Intervals in
+ O(n Log n) time and O(1) extra space.
+ 
+ 
+ */
 
 #include<bits/stdc++.h>
 using namespace std;
