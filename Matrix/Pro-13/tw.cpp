@@ -10,6 +10,7 @@ using namespace std;
 
 struct Interval
 {
+    
     int s, e;
 };
 
