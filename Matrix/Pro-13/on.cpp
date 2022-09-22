@@ -1,4 +1,8 @@
-/ A C++ program for merging overlapping intervals
+/*
+
+A C++ program for merging overlapping intervals 
+
+**/
 
 #include<bits/stdc++.h>
 using namespace std;
