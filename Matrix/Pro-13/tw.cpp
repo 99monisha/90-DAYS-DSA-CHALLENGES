@@ -10,10 +10,9 @@ using namespace std;
 
 struct Interval
 {
-    
+
     int s, e;
 };
-
 bool mycomp(Interval a, Interval b)
 { return a.s < b.s; }
 void mergeIntervals(Interval arr[], int n)
