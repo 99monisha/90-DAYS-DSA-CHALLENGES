@@ -2,7 +2,7 @@
 C++ program to merge overlapping Intervals in
  O(n Log n) time and O(1) extra space.
  
- 
+ The Merged Intervals are: [1,9]
  */
 
 #include<bits/stdc++.h>
