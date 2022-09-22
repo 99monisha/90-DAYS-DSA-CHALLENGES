@@ -2,12 +2,11 @@
 
 A C++ program for merging overlapping intervals 
 The Merged Intervals are: [1,9]
+
 **/
 
 #include<bits/stdc++.h>
 using namespace std;
-
-
 struct Interval
 {
   int start, end;
@@ -55,9 +54,7 @@ void mergeIntervals (Interval arr[], int n)
   return;
 }
 
-
-int
-main ()
+int main ()
 {
   Interval arr[] = { {6, 8}, {1, 9}, {2, 4}, {4, 7} };
   int n = sizeof (arr) / sizeof (arr[0]);
