@@ -37,10 +37,5 @@ int main()
    cout << maxWater(arr, n);
 
    return 0;
-}date the maximum water 
-      res = res + (min(left, right) - arr[i]); 
-        
-    } 
-    return res; 
-    
-} 
+}
+
