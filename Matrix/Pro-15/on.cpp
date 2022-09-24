@@ -1,4 +1,13 @@
-/**/
+/*
+Input : 
+5
+3 0 2 0 4
+
+
+
+Output :
+7
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
