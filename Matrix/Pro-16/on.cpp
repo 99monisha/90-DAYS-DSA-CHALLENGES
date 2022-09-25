@@ -1,5 +1,17 @@
 /*
 print common elements in three arrays
+
+Input :
+
+3
+1  5  5 
+5
+3  4  5  5  10
+4
+5  5  10  20 
+
+Output
+5 5
 */
 
 #include <stdio.h>
