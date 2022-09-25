@@ -1,8 +1,6 @@
 /*
 print common elements in three arrays
-
 Input :
-
 3
 1  5  5 
 5
