@@ -1,5 +1,5 @@
 /*
-
+print common elements in three arrays
 */
 
 #include <stdio.h>
