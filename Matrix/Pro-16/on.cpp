@@ -20,11 +20,9 @@ int main()
   int ar1[n1];
   for(int i=0; i<n1; i++) 
      scanf("%d", &ar1[i]);
-
-  int n2;
+int n2;
   scanf("%d", &n2);
-
-  int ar2[n2];
+int ar2[n2];
   for(int i=0; i<n2; i++) 
     scanf("%d", &ar2[i]);
 
