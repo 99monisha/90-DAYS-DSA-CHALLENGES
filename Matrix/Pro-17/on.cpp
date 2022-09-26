@@ -9,8 +9,6 @@ Output :
 2 10 11 16 17 19 30 34 89 78
 
 */
-
-
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
