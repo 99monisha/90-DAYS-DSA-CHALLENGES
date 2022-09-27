@@ -1,5 +1,5 @@
 /*
-
+Chocolate Distribution Problem
 Output 
 
 Minimum difference is 2
