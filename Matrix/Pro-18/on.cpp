@@ -23,4 +23,5 @@ int main()
           mini = diff;
     }
     cout << "Minimum difference is "<< mini;
+    return 0;
 }
