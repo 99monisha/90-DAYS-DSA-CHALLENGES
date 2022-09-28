@@ -1,6 +1,6 @@
 /*
 Finding if Arrays are disjoint or not
-
+No
 
 */
 #include<bits/stdc++.h>
