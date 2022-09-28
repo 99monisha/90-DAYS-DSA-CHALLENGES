@@ -127,7 +127,7 @@
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-16/on.cpp">26. print common elements in three arrays</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-17/on.cpp">27. Three way Partitioning of an Array around a Given Range</a></ol></p>
       <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-18/on.cpp">28. Chocolate Distribution Problem</a></ol></p>
-      <p><ol><a href="">29. Finding if Arrays are disjoint or not</a></ol></p>
+      <p><ol><a href="https://github.com/99monisha/90-DAYS-DSA-CHALLENGES/blob/master/Matrix/Pro-19/on.cpp">29. Finding if Arrays are disjoint or not</a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
       <p><ol><a href=""></a></ol></p>
